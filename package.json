@@ -1,0 +1,10 @@
+{
+  "name": "failed-banks-list",
+  "description": "A data visualization of failed banks within a Quartz ENGAGE unit",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "csv": "0.2.9",
+    "underscore": "1.4.4"
+  }
+}
