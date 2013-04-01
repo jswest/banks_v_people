@@ -5,6 +5,7 @@
   "private": true,
   "dependencies": {
     "csv": "0.2.9",
-    "underscore": "1.4.4"
+    "underscore": "1.4.4",
+    "cheerio": "0.10.8"
   }
 }
